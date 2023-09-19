@@ -1,6 +1,6 @@
-<h1>#Olá, sou Samuel!  &#128513 </h1>
+<h1>#Olá, sou Samuel!  &#128513; </h1>
 
-Sou amante da leitura &#128214, apreciador de uma boa música &#127927, e atualmente estou em um relacionamento de amor &#128525/ódio &#128545; com a programação, ela me completa.
+Sou amante da leitura &#128214;, apreciador de uma boa música &#127927;, e atualmente estou em um relacionamento de amor &#128525;/ódio &#128545; com a programação, ela me completa.
 
 Comecei meus estudos na programação na parte de desenvolvimento de software com foco em *backend* em 2023, e sempre querendo cada vez mais ter conhecimento para poder me aperfeiçoar na profissão &#128640; .
 
